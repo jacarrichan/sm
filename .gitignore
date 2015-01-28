@@ -1,0 +1,14 @@
+*.class
+.DS_Store
+.orig
+.bin
+# Eclipse project files
+.classpath
+.project
+.settings
+# maven temp directory
+/target
+####  project
+/src/main/webapp/upload/*
+/shishuocms.properties
+*.log
