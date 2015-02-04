@@ -1,0 +1,11 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>index-freemaker</title>
+</head>
+<body>
+    <h1>say hello ${now?string('yyyy.MM.dd HH:mm:ss SSS')}</h1><br/>
+    <h1>say hello ${name}</h1><br/>
+    <h1>say hello ${jdbc_url}</h1><br/>
+</body>
+</html>
